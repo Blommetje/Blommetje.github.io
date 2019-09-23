@@ -1,0 +1,6 @@
+<html>
+<?
+
+echo "connect.php";
+?>
+</html>
